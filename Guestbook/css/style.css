@@ -1,0 +1,69 @@
+body
+{
+	background-image: url("../images/background.jpg");
+}
+
+.clearfix
+{
+	clear: both;
+}
+
+header
+{
+	margin-left: 370px;
+	color: lightblue;
+}
+
+legend
+{
+	color: lightblue;
+}
+
+label
+{
+	color: lightblue;
+}
+
+footer
+{
+	color: lightblue;
+	text-align: center;
+	margin-top: 50px;
+}
+
+#form
+{
+	margin-left: 300px;
+}
+
+#field
+{
+	width: 180px;
+	padding-left: 20px;
+}
+
+.message
+{
+	height: 200px;
+	width: 300px;
+}
+
+#buttons
+{
+	margin-top: 5px;
+	margin-left: 15px;
+}
+
+.error
+{
+
+	margin-left: 300px;
+	color: lightblue;
+}
+
+.table
+{
+	margin-left: 300px;
+	width: 450px;
+	color: lightblue;
+}
